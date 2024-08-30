@@ -1,0 +1,48 @@
+===========================
+      chadai-telegram-bot
+===========================
+python ai_repository_loader.py "Z:\code\chadai\chadai-telegram-bot" -o "Z:\code\ai-repository-loader\telegram"
+
+======================
+    ChadAI website
+======================
+python ai_repository_loader.py "Z:\code\chadai\chadai-website" -o "Z:\code\ai-repository-loader\output"
+
+
+===================
+      Axelar docs
+===================
+python ai_repository_loader.py "Z:\code\axelar-docs-main" -o "Z:\code\ai-repository-loader\axelar-docs-main"
+
+=======================
+      Alexar examples
+=======================
+python ai_repository_loader.py "Z:\code\axelar-examples-main\examples" -o "Z:\code\ai-repository-loader\axelar-docs-examples"
+
+=============
+    jupiter
+=============
+python ai_repository_loader.py "Z:\code\jupiter-quote-api-node-main" -o "Z:\code\ai-repository-loader\jupiter"
+
+=============
+    raydium
+=============
+python ai_repository_loader.py "Z:\code\raydium-sdk-master" -o "Z:\code\ai-repository-loader\jupiter"
+
+========================================
+  raydium-sdk-swap-example-typescript-main
+========================================
+python ai_repository_loader.py "Z:\code\raydium-sdk-swap-example-typescript-main" -o "Z:\code\ai-repository-loader\jupiter"
+
+=================================
+  raydium-sdk-V2-demo-master
+=================================
+python ai_repository_loader.py "Z:\code\raydium-sdk-V2-demo-master" -o "Z:\code\ai-repository-loader\raydium-sdk-V2-demo-master"
+
+
+
+=================================
+  raydium-sdk-V2-demo-master
+=================================
+python ai_repository_loader.py "Z:\code\chadai\chadbotv1" -o "Z:\code\ai-repository-loader\chadbot"
+
