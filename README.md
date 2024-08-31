@@ -1,6 +1,3 @@
-Certainly! I can describe the README content in a way that you can easily type or copy it into your file. Here’s how you can structure it:
-
----
 
 **Getting Started with ai-repository-loader**
 
